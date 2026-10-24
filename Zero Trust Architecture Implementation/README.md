@@ -1,4 +1,5 @@
-<p align="center"><img src="assets/banner.jpg" alt="Zero Trust Architecture Implementation — SecureBank Digital" width="100%"></p>
+<img width="1600" height="520" alt="banner" src="https://github.com/user-attachments/assets/5fdb3a27-72d1-4111-a0c9-6d8cca892f04" />
+
 
 # SecureBank Digital — Zero Trust Architecture Implementation
 
