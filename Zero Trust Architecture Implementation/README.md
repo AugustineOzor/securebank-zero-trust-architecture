@@ -95,8 +95,6 @@ flowchart LR
 ```
 securebank-zero-trust-architecture/
 ├── README.md
-├── assets/
-│   └── banner.jpg
 ├── Asset-Inventory.md
 ├── Risk-Register.md
 ├── Access-Risks.md
