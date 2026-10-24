@@ -114,8 +114,6 @@ SecureBank Digital is a fictional organisation. All systems, figures and roles a
 
 ---
 
-**Author:** Augustine Ozor — AI Governance & Cybersecurity GRC · [GitHub](https://github.com/AugustineOzor) · [LinkedIn](https://linkedin.com/in/augustinetettehozor)
-
 ---
 
 Start reading: [Asset Inventory →](Asset-Inventory.md)
